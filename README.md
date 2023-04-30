@@ -3,12 +3,13 @@
 
 For the integration between spring-boot and swagger-ui, add the library to the list of your project dependencies (No additional configuration is needed)
 
+'
    <dependency>
       <groupId>org.springdoc</groupId>
       <artifactId>springdoc-openapi-ui</artifactId>
       <version>1.7.0</version>
    </dependency>
-
+'
 This will automatically deploy swagger-ui to a spring-boot application:
 
 Documentation will be available in HTML format, using the official swagger-ui jars
