@@ -23,3 +23,5 @@ port: The server port
 context-path: The context path of the application
 
 Documentation can be available in yaml format as well, on the following path : /v3/api-docs.yaml
+
+https://springdoc.org/
